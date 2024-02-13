@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Web.App.WebAssembly.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Web.Assembly.Static", "src\Blazor.Web.Assembly.Static\Blazor.Web.Assembly.Static.csproj", "{5375B840-BA12-4148-B195-4570B027ED9B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.Web.Components", "src\Blazor.Web.Components\Blazor.Web.Components.csproj", "{45DFD545-33B0-469E-B914-A7C07B26CCA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5375B840-BA12-4148-B195-4570B027ED9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5375B840-BA12-4148-B195-4570B027ED9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5375B840-BA12-4148-B195-4570B027ED9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DFD545-33B0-469E-B914-A7C07B26CCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DFD545-33B0-469E-B914-A7C07B26CCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DFD545-33B0-469E-B914-A7C07B26CCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DFD545-33B0-469E-B914-A7C07B26CCA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
